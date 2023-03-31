@@ -1,3 +1,0 @@
-Realizar un programa que implemente fork junto con el parseo de argumentos. Debera realizar un fork si -f 
-aparece entre las opciones al ejecutar el programa. El proceso padre debera calcular la raiz cuadrada positiva 
-de un numero y el hijo la raiz negativa.
