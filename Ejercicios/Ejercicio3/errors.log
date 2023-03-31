@@ -1,0 +1,4 @@
+Error: [Errno 2] No such file or directory: 'ejercicio.tx'
+Filename: ejercicio.tx
+Arguments: ['Ejercicio3.py', 'ejercicio.tx', '-a']
+--------------------
